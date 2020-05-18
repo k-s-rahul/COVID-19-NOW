@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="COVID Data">e8425b412f701010e61dfd1df699b672</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-14 07:49:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e252db412f701010e61dfd1df699b6cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e8425b412f701010e61dfd1df699b672</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="External Covid Data" source="x_275299_ecd">1e4bcf812f301010e61dfd1df699b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="External Covid Data">1e4bcf812f301010e61dfd1df699b6fd</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_e252db412f701010e61dfd1df699b6cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-14 07:49:40</sys_updated_on>
+        <tab display_value="COVID Data - JHU">ee52db412f701010e61dfd1df699b6cb</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
